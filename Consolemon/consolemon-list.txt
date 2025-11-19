@@ -1,0 +1,16 @@
+[
+    {
+        "Nickname" : "Condragon",
+        "ConsolemonSpecies" : "Condragon",
+        "Type" : "Condragon",
+        "EncounterRate" : 50,
+        "CatchChance" : 20
+    },
+    {
+        "Nickname" : "Dragoncon",
+        "ConsolemonSpecies" : "Dragoncon",
+        "Type" : "Dragoncon",
+        "EncounterRate" : 50,
+        "CatchChance" : 20
+    }
+]
